@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Todo;
+use App\Models\Category;
 use App\Http\Requests\TodoRequest;
 use Illuminate\Http\Request;
 
